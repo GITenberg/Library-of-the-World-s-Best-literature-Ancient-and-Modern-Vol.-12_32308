@@ -31,6 +31,8 @@ creator:
     gutenberg_agent_id: '28342'
     url: http://www.gutenberg.org/2009/agents/28342
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32308#Library-of-the-World-s-Best-literature-Ancient-and-Modern-Vol.-12
 gutenberg_issued: '2010-05-09'
 gutenberg_type: Text
 identifiers:
