@@ -1,0 +1,46 @@
+_repo: Library-of-the-World-s-Best-literature-Ancient-and-Modern-Vol.-12_32308
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editors:
+  - agent_name: Mabie, Hamilton Wright
+    alias: Mabie, Hamilton W. (Hamilton Wright)
+    birthdate: 1846
+    deathdate: 1916
+    gutenberg_agent_id: '1421'
+    url: http://www.gutenberg.org/2009/agents/1421
+    wikipedia: http://en.wikipedia.org/wiki/Hamilton_Wright_Mabie
+  - agent_name: Warner, Charles Dudley
+    birthdate: 1829
+    deathdate: 1900
+    gutenberg_agent_id: '993'
+    url: http://www.gutenberg.org/2009/agents/993
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Dudley_Warner
+  - agent_name: Runkle, Lucia Isabella Gilbert
+    birthdate: 1844
+    gutenberg_agent_id: '28341'
+    url: http://www.gutenberg.org/2009/agents/28341
+  - agent_name: Warner, George H.
+    aliases:
+    - Warner, G. H. (George H.)
+    - Warner, George Henry
+    birthdate: 1833
+    deathdate: 1919
+    gutenberg_agent_id: '28342'
+    url: http://www.gutenberg.org/2009/agents/28342
+description: ''
+gutenberg_issued: '2010-05-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32308'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcsh 'Literature -- Collections'
+title: Library of the World's Best literature, Ancient and Modern, Vol. 12
+url: http://www.gutenberg.org/ebooks/32308
